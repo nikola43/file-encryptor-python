@@ -1,0 +1,7 @@
+public_key.pem
+private_key.pem
+example.txt.decrypted
+example.txt.encrypted
+__pycache__
+env
+venv
